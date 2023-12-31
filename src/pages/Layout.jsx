@@ -7,6 +7,8 @@ export default function Layout() {
         <>
             <HeaderComponent />
 
+            <h3>Layout of the React Project</h3>
+
             <Outlet />
 
             <FooterComponent />

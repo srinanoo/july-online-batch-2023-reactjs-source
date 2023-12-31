@@ -6,7 +6,7 @@ export default function HeaderComponent() {
         <>
             <div className="flex">
                 <div>
-                    LOGO
+                    LOGO / BRAND
                 </div>
                 <div>
                     {/* <nav>
